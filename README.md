@@ -1,1 +1,1 @@
-# The Project Name Generator
+# The Startup Name Generator
