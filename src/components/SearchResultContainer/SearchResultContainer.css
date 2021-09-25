@@ -1,0 +1,6 @@
+.search-result-conatiner {
+    display: flex;
+    flex-flow: row wrap;
+    justify-items: center;
+    padding: 10px 10px 10px 120px;
+}

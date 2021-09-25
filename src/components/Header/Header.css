@@ -1,0 +1,23 @@
+.header-container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto 40px;
+    align-items: center;
+}
+
+.header-image {
+    width: 350px;
+}
+
+.head-text {
+    font-family: 'Hachi Maru Pop', cursive;
+    margin: 30px 10px 0 15px;
+    font-size: 3.5rem;
+}
+
+.heart-icon {
+    position: absolute;
+    transform: rotate(20deg);
+    margin: 184px 500px 0px 565px;
+    font-size: 1rem;
+}
